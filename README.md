@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @makskliczkowski
-- 👀 I’m interested in strongly correlated Quantum Systems, condensed matter physics, numerical simulations, Monte Carlo and Quantum Monte Carlo, Machine Learning and volleyball :o
-- 🌱 I’m currently learning Quantum Monte Carlo simulations, Symmetry preserving spin systems Ergodic properties, Machine learning in physics
-- 💞️ I’m looking to collaborate on simulations of Quantum Systems, machine learning or advanced numerics
+- 👀 I’m interested in strongly correlated quantum systems, condensed matter physics, numerical simulations, Monte Carlo and Quantum Monte Carlo, Machine Learning and volleyball :o
+- 🌱 I’m currently working on new tools for Analytic Continuation and studying quantum chaotic and integrable systems. 
+- 💞️ I’m looking to collaborate on simulations of Quantum Systems, machine learning or advanced numerics in physics and/or around.
 - 📫 How to reach me: via email - maksymilian.kliczkowski.at.pwr.edu.pl
