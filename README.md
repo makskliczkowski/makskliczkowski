@@ -7,7 +7,7 @@
  
 <p><i>Physics and Big Data Analytics graduate, **PhD student** in theoretical physics and a software engineer 🔧 at <b>Bustec Production Ltd.</b> with fine problem-solving skills. I’m interested in strongly correlated quantum systems, condensed matter physics and numerical simulations. Passionate about coding and science whatsoever, placing a special emphasis on writing good quality code and subject understanding 👀 + volleyball passionate :o</i></p>
 
-<img src="https://i.makeagif.com/media/9-09-2015/iGuHHi.gif" width="40%" align="right" />
+<img src="https://i.makeagif.com/media/9-09-2015/iGuHHi.gif" width="30%" align="right" />
 
 ## ⚡🙋‍♂️ About Me
 
