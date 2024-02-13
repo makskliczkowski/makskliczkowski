@@ -5,24 +5,22 @@
 
 # Hey there👋, I’m @makskliczkowski
  
-<p><i>Physics and Big Data Analytics graduate, **PhD student** in theoretical physics and a software engineer 🔧 at <b>Bustec Production Ltd.</b> with fine problem-solving skills. I’m interested in strongly correlated quantum systems, condensed matter physics and numerical simulations. Passionate about coding and science whatsoever, placing a special emphasis on writing good quality code and subject understanding 👀 + volleyball passionate :o</i></p>
-
+<p align="justify"><i>Physics and Big Data Analytics graduate, currently pursuing a **PhD in theoretical physics** and working as a software engineer 🔧 at <b>Bustec Production Ltd.</b> I have a strong passion for problem-solving and am particularly interested in strongly correlated quantum systems, condensed matter physics, and numerical simulations. I'm dedicated to writing high-quality code and deepening my understanding of scientific concepts. Also, I'm a volleyball player! 🏐</i></p>
 <img src="https://i.makeagif.com/media/9-09-2015/iGuHHi.gif" width="30%" align="right" />
 
 ## ⚡🙋‍♂️ About Me
 
 </br>
 
-- 🔧 I’m currently working on ...new tools for Analytic Continuation and studying quantum chaotic and integrable systems.
-- 💡 I’m curious about ...the world.
-- 📖 I’m currently learning ...quantum chaos.
-- 💞️ I’m looking to collaborate on ...simulations of Quantum Systems, Machine Learning or advanced numerics in physics and/or around.
-- 📫 How to reach me... via email - maksymilian.kliczkowski.at.pwr.edu.pl
+- 🔧 I’m currently working on: Developing new tools for Analytic Continuation and studying quantum chaotic and integrable systems..
+- 📖 I’m currently learning: Delving into the intricacies of quantum chaos.
+- 💞️ I’m looking to collaborate on: Simulations of Quantum Systems, Machine Learning, or advanced numerics in physics.
+- 📫 How to Reach Me: Drop me an email at maksymilian.kliczkowski.at.pwr.edu.pl
 <hr>
 
 </br>
 
-<table width="100%" >
+<table width="100%">
  <tr>
     <td width="60%">
      
@@ -62,12 +60,13 @@
 
 #### Papers 📙📘
 - ![📙Average entanglement entropy of midspectrum eigenstates of quantum-chaotic interacting Hamiltonians](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.107.064119)
+- ![📙Eigenstate entanglement entropy in the integrable spin-1/2 XYZ model](https://arxiv.org/abs/2311.10819)
+- ![📙Autoencoder-based analytic continuation method for strongly correlated quantum systems](https://arxiv.org/abs/2311.17920)
 
-  </td>
+</td>
 <td>
   
-## 📄📜 Stats
-
+📄📜 Stats
 <p align="center">
 <!--   <img width="100%" src="https://github-readme-stats.vercel.app/api?username=makskliczkowski&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" /> -->
 <!--  </br> -->
@@ -75,21 +74,15 @@
  </br>
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makskliczkowski&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
 </p>
-     
   </td>
  </tr>
 </table>
-</td>
-  
-<td width="600px">
-</td>
-  
-</tr>
-</table>
+
 </br>
  
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; 
 
+</br>
 <div align="center">
 <img src="https://i.makeagif.com/media/11-08-2015/N9FUO7.gif"  width="60%" align="left"/>
 </br>
@@ -98,20 +91,17 @@
 </br>
 </br>
 </br>
-<b style = {font-weight: 800}>Visitors Count</b>
+<b style="font-weight: 800">Visitors Count</b>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{makskliczkowski}/count.svg" /></p> 
 <br>
 </div>
+</br>
 </br>
 </br>
 
 <td width="600px">
   
 </td>
-</br>
-</br>
-</br>
-</br>
 </br>
 </br>
 </br>
