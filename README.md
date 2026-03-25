@@ -43,15 +43,16 @@ I work in **Theoretical / Numerical Physics** and **High-Performance / Backend E
 
 ---
 
-### Technical Stack
+### 🛠️ Technical Stack
 
 <div align="center">
 
 | **Domain** | **Technologies** |
 | :--- | :--- |
 | **Languages** | ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C) ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white) ![Scala](https://img.shields.io/badge/-Scala-red?style=flat&logo=scala&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-121011?style=flat&logo=gnu-bash&logoColor=white) |
-| **Data & Science** | ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white) |
-| **Engineering** | ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) ![Conda](https://img.shields.io/badge/conda-342B029?style=flat&logo=anaconda&logoColor=white) |
+| **Scientific ML** | ![TensorFlow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![JAX](https://img.shields.io/badge/-JAX-blue?style=flat&logo=google&logoColor=white) ![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white) |
+| **Data & Stats** | ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=flat&logo=pandas&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=blue&color=0B2C4A) ![Conda](https://img.shields.io/badge/conda-342B029?style=flat&logo=anaconda&logoColor=white) |
+| **Engineering** | ![Linux](https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) |
 
 </div>
 
@@ -81,7 +82,7 @@ I work in **Theoretical / Numerical Physics** and **High-Performance / Backend E
 **However, it doesn't include my professional git profile ;), which includes deeper stats than this**
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=makskliczkowski&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=makskliczkowski&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makskliczkowski&layout=compact&theme=tokyonight&exclude_repo=Portfolio,HomePal" />
 </p>
 <p align="center">
@@ -92,7 +93,7 @@ I work in **Theoretical / Numerical Physics** and **High-Performance / Backend E
 
 ### 📬 Let's Connect
 
-<div align="left">
+<div align="center">
 
 <a href="https://www.linkedin.com/in/maksymilian-kliczkowski-6b8703195/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:maksymilian.kliczkowski@pwr.edu.pl"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -100,11 +101,17 @@ I work in **Theoretical / Numerical Physics** and **High-Performance / Backend E
 
 <br/><br/>
 
+---
+
 <b>Profile Visitors</b><br/>
-<img src="https://profile-counter.glitch.me/{makskliczkowski}/count.svg" />
+<img src="https://komarev.com/ghpvc/?username=makskliczkowski&color=36BCF7&style=for-the-badge&label=READERS" />
 
 </div>
+
+---
 
 <p align="center">
   <img src="https://i.makeagif.com/media/11-08-2015/N9FUO7.gif" width="400" />
 </p>
+
+---
