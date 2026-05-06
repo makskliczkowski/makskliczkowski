@@ -67,6 +67,7 @@ I work in **Theoretical / Numerical Physics** and **High-Performance / Backend E
     <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </a>
 </p>
+
 - **2026** | 📙 **Information in Many-body Eigenstates: A Question of Learnability** | [arXiv:2605.03043](https://arxiv.org/abs/2605.03043)
 - **2026** | 📙 **Fading ergodicity and quantum dynamics in random matrix ensembles** | [arXiv:2603.23616](https://arxiv.org/abs/2603.23616)
 - **2026** | 📙 **Probing frustrated spin systems with impurities** | [arXiv:2602.21086](https://arxiv.org/abs/2602.21086)
