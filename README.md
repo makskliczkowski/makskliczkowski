@@ -79,20 +79,6 @@ I work in **Theoretical / Numerical Physics** and **High-Performance / Backend E
 
 ---
 
-### Metrics
-
-**However, it doesn't include my professional git profile ;), which includes deeper stats than this**
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=makskliczkowski&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makskliczkowski&layout=compact&theme=tokyonight&exclude_repo=Portfolio,HomePal" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=makskliczkowski&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 📬 Let's Connect
 
 <div align="center">
